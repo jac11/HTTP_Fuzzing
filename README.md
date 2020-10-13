@@ -1,6 +1,6 @@
 # HTTP_Fuzzing
 * HTTP_Fuzzing wtite by python 2.7
-* HTTP_Fuzzing  web login page with itis code 
+* HTTP_Fuzzing  for fuzzing web login page 'username'and 'password'
 *  HTTP_Fuzzing test on 'Sync Breeze'
 ## Required
 * pip install requests
